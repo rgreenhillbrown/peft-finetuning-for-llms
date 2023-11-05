@@ -1,4 +1,4 @@
-# LLM Fine-Tuning Using HuggingFace's PEFT
+# GUI for LLM Fine-Tuning Using HuggingFace's PEFT
 
 ---
 
