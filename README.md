@@ -1,14 +1,14 @@
-### README.md for LLM Fine-Tuning Using Hugging Face's PEFT
+LLM Fine-Tuning Using HuggingFace's PEFT
 
 ---
 
 #### Project Overview
 
-This project provides a comprehensive solution for fine-tuning large language models (LLMs) using Hugging Face's Parameter-Efficient Fine-Tuning (PEFT) framework. It includes a user-friendly graphical user interface (GUI) for easy interaction with the model training and inference processes. The project is structured into three main modules:
+This project provides a comprehensive solution for fine-tuning large language models (LLMs) using HuggingFace's Parameter-Efficient Fine-Tuning (PEFT) framework. It includes a user-friendly graphical user interface (GUI) for easy interaction with the model training and inference processes. The project is structured into three main modules:
 
 1. **GUI (`gui.py`)**: A Kivy-based interface that allows users to initiate and monitor training and inference tasks.
 2. **Inference Module (`inference_module.py`)**: Handles the loading and running of PEFT-based models for inference.
-3. **Training Module (`training_module.py`)**: Facilitates the training of language models using the PEFT framework with customizable configuration.
+3. **Training Module (`training_module.py`)**: Facilitates the training of language models using the PEFT framework with customisable configuration.
 
 #### Features
 
